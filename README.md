@@ -1,6 +1,7 @@
-# Jungle of Jewels 🎮💎
+# Jungle of Jewels 
+to access source code go to assets then scripts 
 
-A third-person stealth game built in Unity as part of my final year project. The game explores how interactive storytelling techniques like audio cues, enemy dialogue, and environmental signposting can enhance player immersion.
+A 3D third-person stealth game built in Unity as part of my final year project. The game explores how interactive storytelling techniques like audio cues, enemy dialogue, and environmental signposting can enhance player immersion.
 
 ## Features:
 - Jewel collection and win condition
